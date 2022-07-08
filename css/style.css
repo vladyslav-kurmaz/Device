@@ -783,7 +783,7 @@ h2 {
 }}
 
 .product-logo-item .product-logo-one:hover {
-    background-image: url(img/logo-1-color.png);
+    background-image: url(/img/logo-1-color.png);
     animation-name: appearance;
     animation-duration: 2s;
    
@@ -791,13 +791,13 @@ h2 {
 
 
 .product-logo-item .product-logo-two:hover {
-    background-image: url(img/logo-2-color.png);
+    background-image: url(/img/logo-2-color.png);
     animation-name: appearance;
     animation-duration: 2s;
 }
 
 .product-logo-item .product-logo-three:hover {
-    background-image: url(img/logo-3-color.png);
+    background-image: url(/img/logo-3-color.png);
     animation-name: appearance;
     animation-duration: 2s;
 }

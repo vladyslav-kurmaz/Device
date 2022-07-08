@@ -783,7 +783,7 @@ h2 {
 }}
 
 .product-logo-item .product-logo-one:hover {
-    background-image: url(/img/logo-1.jpg\ copy.png);
+    background-image: url(img/logo-1.jpg\ copy.png);
     animation-name: appearance;
     animation-duration: 2s;
    
@@ -791,19 +791,19 @@ h2 {
 
 
 .product-logo-item .product-logo-two:hover {
-    background-image: url(/img/logo-2.jpg\ copy-2.png);
+    background-image: url(img/logo-2.jpg\ copy-2.png);
     animation-name: appearance;
     animation-duration: 2s;
 }
 
 .product-logo-item .product-logo-three:hover {
-    background-image: url(/img/logo-3.jpg\ copy.png);
+    background-image: url(img/logo-3.jpg\ copy.png);
     animation-name: appearance;
     animation-duration: 2s;
 }
 
 .product-logo-item .product-logo-four:hover {
-    background-image: url(/img/logo-4.jpg\ copy.png);
+    background-image: url(img/logo-4.jpg\ copy.png);
     animation-name: appearance;
     animation-duration: 2s;
 }
